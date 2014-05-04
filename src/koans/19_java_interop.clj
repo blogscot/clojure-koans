@@ -1,4 +1,4 @@
-;(meditations
+(meditations
   "You may have done more with Java than you know"
   (= java.lang.String (class "warfare")) ; hint: try typing (javadoc "warfare") in the REPL
 
@@ -13,5 +13,5 @@
           (.getCount latch)))
 
   "Static methods are slashing prices!"
-  (== 1024 (Math/pow 2 10));)
+  (== 1024 (Math/pow 2 10)))
 
